@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "WebSearch",
+      "mcp__tavily__tavily_search",
+      "Bash(iconv:*)",
+      "Bash(ls:*)",
+      "mcp__github__get_file_contents",
+      "mcp__github__push_files",
+      "mcp__github__create_or_update_file",
+      "Bash(mv:*)",
+      "mcp__tavily__tavily_extract",
+      "WebFetch(domain:pdf.dfcfw.com)",
+      "Bash(git reset:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
